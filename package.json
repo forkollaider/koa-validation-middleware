@@ -1,0 +1,30 @@
+{
+  "name": "koa-validation-middleware",
+  "version": "0.1.0",
+  "description": "Request validation middleware for koa libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forkollaider/koa-validation-middleware.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "koa",
+    "validation",
+    "middleware",
+    "request",
+    "validator",
+    "data",
+    "validation"
+  ],
+  "author": "Tikhon Scherbakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forkollaider/koa-validation-middleware/issues"
+  },
+  "homepage": "https://github.com/forkollaider/koa-validation-middleware#readme"
+}
