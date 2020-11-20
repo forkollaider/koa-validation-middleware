@@ -32,6 +32,6 @@ export function validate(rules) {
   };
 }
 
-async function executeValidator(validator: Predicate, value: unknown): Promise<boolean> {
+async function executeValidator(validator, value) {
   return await validator(value);
 }
